@@ -39,6 +39,7 @@ Estudante de Engenharia de Software na Escola DNC em busca de conhecimento e exp
 </p>
 
 ## 📌 Projetos em destaque
+- 🏢 [Portal de Imóveis SP](https://dwelling-shine-show.lovable.app/) - Plataforma de empreendimentos imobiliários com React + TypeScript
 - 🌐 [Portfólio Profissional](https://studiorickdigital.github.io/) - Meus trabalhos de front-end
 - 🏋️ [Nepofit Performance](https://ricklima991.github.io/nepofit-performance/) - Landing page de alta conversão para academia ([código](https://github.com/Ricklima991/nepofit-performance))
 - 🏖️ [Pousada do Adão](https://ricklima991.github.io/pousada-do-adao/) - Site completo de pousada e restaurante ([código](https://github.com/Ricklima991/pousada-do-adao))
