@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/henrique-luiz-dutra-a10346146"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://freelancer-expert-8882440.gamma.site/viverdefreelancer"><img src="https://img.shields.io/badge/Portfólio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=Ricklima991&color=0ea5e9&style=for-the-badge&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=Rickdigitalestudio&color=0ea5e9&style=for-the-badge&label=VISITAS" />
 </p>
 
 ## 🚀 Sobre mim
@@ -22,31 +22,31 @@ Estudante de Engenharia de Software na Escola DNC em busca de conhecimento e exp
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ricklima991&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricklima991&layout=compact&theme=tokyonight&langs_count=7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rickdigitalestudio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickdigitalestudio&layout=compact&theme=tokyonight&langs_count=7" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ricklima991&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rickdigitalestudio&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🐍 Contribuições
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ricklima991/Ricklima991/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ricklima991/Ricklima991/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Ricklima991/Ricklima991/output/github-snake.svg" alt="snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickdigitalestudio/Rickdigitalestudio/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickdigitalestudio/Rickdigitalestudio/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Rickdigitalestudio/Rickdigitalestudio/output/github-snake.svg" alt="snake" />
   </picture>
 </p>
 
 ## 📌 Projetos em destaque
-- 🏠 [New Vila Ema](https://ricklima991.github.io/vila-ema-living/) - Landing premium de empreendimento imobiliário com React + TypeScript ([código](https://github.com/Ricklima991/vila-ema-living))
+- 🏠 [New Vila Ema](https://rickdigitalestudio.github.io/vila-ema-living/) - Landing premium de empreendimento imobiliário com React + TypeScript ([código](https://github.com/Rickdigitalestudio/vila-ema-living))
 - 🏢 [Portal de Imóveis SP](https://dwelling-shine-show.lovable.app/) - Plataforma de empreendimentos imobiliários com React + TypeScript
 - 🌐 [Portfólio Profissional](https://studiorickdigital.github.io/) - Meus trabalhos de front-end
-- 🏋️ [Nepofit Performance](https://ricklima991.github.io/nepofit-performance/) - Landing page de alta conversão para academia ([código](https://github.com/Ricklima991/nepofit-performance))
-- 🏖️ [Pousada do Adão](https://ricklima991.github.io/pousada-do-adao/) - Site completo de pousada e restaurante ([código](https://github.com/Ricklima991/pousada-do-adao))
-- 👶 [CrescerBem](https://github.com/Ricklima991/CrescerBem) - Plataforma de desenvolvimento infantil ([ver site](https://ricklima991.github.io/CrescerBem/))
-- 🏛️ [Landing-Page-Arquitetura](https://github.com/Ricklima991/Landing-Page-Arquitetura) - Trilha Full Stack DNC
-- 🔌 [Desafio-2-Dnc-consumo-de-API](https://github.com/Ricklima991/Desafio-2-Dnc-consumo-de-API)
-- ⚛️ [DNC React Portfolio](https://github.com/Ricklima991/Desafio-03-e-04---Construa-uma-interface-utilizando-ReactJS---Escola-DNC-main)
+- 🏋️ [Nepofit Performance](https://rickdigitalestudio.github.io/nepofit-performance/) - Landing page de alta conversão para academia ([código](https://github.com/Rickdigitalestudio/nepofit-performance))
+- 🏖️ [Pousada do Adão](https://rickdigitalestudio.github.io/pousada-do-adao/) - Site completo de pousada e restaurante ([código](https://github.com/Rickdigitalestudio/pousada-do-adao))
+- 👶 [CrescerBem](https://github.com/Rickdigitalestudio/CrescerBem) - Plataforma de desenvolvimento infantil ([ver site](https://rickdigitalestudio.github.io/CrescerBem/))
+- 🏛️ [Landing-Page-Arquitetura](https://github.com/Rickdigitalestudio/Landing-Page-Arquitetura) - Trilha Full Stack DNC
+- 🔌 [Desafio-2-Dnc-consumo-de-API](https://github.com/Rickdigitalestudio/Desafio-2-Dnc-consumo-de-API)
+- ⚛️ [DNC React Portfolio](https://github.com/Rickdigitalestudio/Desafio-03-e-04---Construa-uma-interface-utilizando-ReactJS---Escola-DNC-main)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
