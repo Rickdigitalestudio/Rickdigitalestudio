@@ -41,7 +41,7 @@ Estudante de Engenharia de Software na Escola DNC em busca de conhecimento e exp
 ## 📌 Projetos em destaque
 - 🏠 [New Vila Ema](https://rickdigitalestudio.github.io/vila-ema-living/) - Landing premium de empreendimento imobiliário com React + TypeScript ([código](https://github.com/Rickdigitalestudio/vila-ema-living))
 - 🏢 [Portal de Imóveis SP](https://dwelling-shine-show.lovable.app/) - Plataforma de empreendimentos imobiliários com React + TypeScript
-- 🌐 [Portfólio Profissional](https://studiorickdigital.github.io/) - Meus trabalhos de front-end
+- 🌐 [Portfólio Profissional](https://rickdigitalestudio.github.io/profissional-rickdutra/) - Meus trabalhos de front-end
 - 🏋️ [Nepofit Performance](https://rickdigitalestudio.github.io/nepofit-performance/) - Landing page de alta conversão para academia ([código](https://github.com/Rickdigitalestudio/nepofit-performance))
 - 🏖️ [Pousada do Adão](https://rickdigitalestudio.github.io/pousada-do-adao/) - Site completo de pousada e restaurante ([código](https://github.com/Rickdigitalestudio/pousada-do-adao))
 - 👶 [CrescerBem](https://github.com/Rickdigitalestudio/CrescerBem) - Plataforma de desenvolvimento infantil ([ver site](https://rickdigitalestudio.github.io/CrescerBem/))
