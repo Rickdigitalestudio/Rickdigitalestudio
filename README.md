@@ -39,6 +39,7 @@ Estudante de Engenharia de Software na Escola DNC em busca de conhecimento e exp
 </p>
 
 ## 📌 Projetos em destaque
+- 💈 [Barbearia Gui Leiros](https://rickdigitalestudio.github.io/barbearia-gui-leiros/) - Site oficial 3D de barbearia: portfólio com 11 fotos reais, serviços com filtros e agendamento no WhatsApp · [guileiros.com.br](https://guileiros.com.br) ([código](https://github.com/Rickdigitalestudio/barbearia-gui-leiros))
 - 🏠 [New Vila Ema](https://rickdigitalestudio.github.io/vila-ema-living/) - Landing premium de empreendimento imobiliário com React + TypeScript ([código](https://github.com/Rickdigitalestudio/vila-ema-living))
 - 🏢 [Portal de Imóveis SP](https://dwelling-shine-show.lovable.app/) - Plataforma de empreendimentos imobiliários com React + TypeScript
 - 🌐 [Portfólio Profissional](https://rickdigitalestudio.github.io/profissional-rickdutra/) - Meus trabalhos de front-end
