@@ -56,6 +56,7 @@ Web designer e desenvolvedor front-end, **estudante de Engenharia de Software na
 </p>
 
 ## 📌 Projetos em destaque
+- 🧑‍💻 [Viver de Freelancer](https://rickdigitalestudio.github.io/viverdefreelancer/) - Site freelancer migrado do Gamma para código com cena WebGL em Three.js: painel 3D da foto no hero, fotos orbitando, partículas, bloom e carrossel arrastável ([código](https://github.com/Rickdigitalestudio/viverdefreelancer))
 - 🔧 [Konstruct Store](https://rickdigitalestudio.github.io/profissional-rickdutra/konstruct/) - Loja virtual 3D com **73 produtos**, 67 fotos reais e vitrine navegável em WebGL
 - 🛒 [TechVerse](https://rickdigitalestudio.github.io/profissional-rickdutra/techverse/) - Loja de tecnologia em 3D com carrinho real
 - ⛪ [AD Santos — A Pioneira](https://rickdigitalestudio.github.io/ad-ministerio-santos-3d/) - Site institucional 3D com maquete do templo e rádio ao vivo ([código](https://github.com/Rickdigitalestudio/ad-ministerio-santos-3d))
